@@ -12,6 +12,7 @@
 10. Паттерны
 11. Лучше изучить ElasticSearch
 12. Сборка Python проектов
+13. SQLAlchemy, Alembic
 
 
 Английский
