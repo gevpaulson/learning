@@ -13,6 +13,7 @@
 11. Лучше изучить ElasticSearch
 12. Сборка Python проектов
 13. SQLAlchemy, Alembic
+14. Unit тесты
 
 
 Английский
